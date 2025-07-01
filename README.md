@@ -1,6 +1,10 @@
 # Basic NumPy Example
 
-This repository contains a small Jupyter Notebook demonstrating the basics of using NumPy.
+This repository is a sample for verifying integration with OpenAI Codex.
+このリポジトリは OpenAI Codex との連携検証を目的としたサンプルです。
+
+This repository contains a small Jupyter Notebook demonstrating the basics of
+using NumPy.
 
 ## Requirements
 
